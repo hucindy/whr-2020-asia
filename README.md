@@ -1,4 +1,4 @@
-Uncovering Similarities and Differences Among Asian Countries: A Clustering Approach
+Cluster Analysis of Countries in Asia
 ================
 
 ### Introducton
